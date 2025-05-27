@@ -1,0 +1,30 @@
+Project - 1
+basic responsive template
+
+Wylie
+
+React 컴포넌트에서 Redux, gsap 등을 활용하여 스크롤 애니메이션을 구현 및 페이지 내 다양한 UI 요소들의 동적 인터랙션을 제공합니다.
+
+Read More
+
+
+
+Project - 2
+desktop template
+
+SPC
+
+HTML, CSS jQuery를 활용하여 SwiperJS, 다양한 인터페이스 변화등을 제공하였으며 각 섹션에 텍스트와 이미지등 SPC의 다양한 콘텐츠를 구현화 하였습니다.
+
+Read More
+
+
+
+Project - 3
+desktop, moblie template 
+
+Artcenter Nabi
+
+HTML, CSS, JavaScript로 반응형 웹 디자인과 모바일 기능을 구현하였습니다.
+
+Read More
